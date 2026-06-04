@@ -15,4 +15,3 @@ function genomsnitt() {
 }
 
 genomsnitt()
-genomsnitt()
